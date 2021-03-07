@@ -1,0 +1,98 @@
+{
+    "adapools": {
+        "about": {
+            "name": "CCSPA",
+            "description_short": "Canadian Cardano Stakepool Association",
+            "description_long": "Our vision is to be trusted advisors and enablers, bringing together a network of Cardano stake pool operators, current and potential investors and Canadian entrepreneurs looking to build decentralized solutions for the Cardano blockchain.",
+            "website": "https://ccspa.ca",
+            "url_png_icon_64x64": "https://ccspa.ca/wp-content/uploads/2020/11/ccspa-400x400-1-140x140.png",
+            "url_png_logo": "https://ccspa.ca/wp-content/uploads/2020/11/ccspa-compact-4.png",
+            "social": {
+                "twitter_handle": "CCSPAssociation",
+                "telegram_handle": "",
+                "facebook_handle": "",
+                "youtube_handle": "",
+                "twitch_handle": "",
+                "discord_handle": "",
+                "github_handle": ""
+            },
+            "types": {
+                "charity": false,
+                "business": true,
+                "beneficial": true
+            }
+        },
+        "members": {
+            "0": {
+                "pool_id": "4deb0ba979fe7af5a5a4896ef68cdae029ad116542555cb422f46348",
+                "member_since": "2020-11-01",
+                "name": "Cardano Canucks"
+            },
+            "1": {
+                "pool_id": "90b265d73d812200a842f90bd01bc9f943a713b0dc936238c686c0a9",
+                "member_since": "2020-11-01",
+                "name": "Cardano Canucks Pool Two"
+            },
+            "2": {
+                "pool_id": "2a70a609a9506d55738a3d4e11884fa71bc68ffb759688315069f76d",
+                "member_since": "2020-11-01",
+                "name": "Cardano Canucks Pool Three"
+            },
+            "3": {
+                "pool_id": "593dfbc66c5b8dfc040851a2f4d87191490d4c2312c65dd4418f7b23",
+                "member_since": "2020-11-01",
+                "name": "Beaver Pool!"
+            },
+            "4": {
+                "pool_id": "f4762ca1dce3c32c0d7a7e6d9f8a54bf40338e99ae5f3ad0172c9a2f",
+                "member_since": "2020-11-01",
+                "name": "Rocky Mountain Pool"
+            },
+            "5": {
+                "pool_id": "e63d0fa435f185cf651c81bf666f51199ca6dd7ba1fe7cbf75d76776",
+                "member_since": "2020-11-01",
+                "name": "Kelowna Staking Pool"
+            },
+            "6": {
+                "pool_id": "a2ccd8e93f5a518d4400790cb081673e79ed41e4bf1132f740f26a28",
+                "member_since": "2020-11-01",
+                "name": "ArmADA StakePool"
+            },
+            "7": {
+                "pool_id": "f8b811d63ef2ac9e19eff41ab7a99f37b82da701f8ddb34d6d12cdb7",
+                "member_since": "2020-11-23",
+                "name": "ADA HEART STAKE POOL"
+            },
+            "8": {
+                "pool_id": "0d8fb11358f653adc406c1508d27f9c1741c4eb06b75bef6d676489a",
+                "member_since": "2021-01-11",
+                "name": "Cardano Canada"
+            },
+            "9": {
+                "pool_id": "71a659c3e71b0ddd0cf9a67bdb3f7fd656934c4a995801ee0ea4c482",
+                "member_since": "2021-01-11",
+                "name": "Ektropy"
+            },
+            "10": {
+                "pool_id": "91e34a10c60a797011bdafc723e0b86a2fdecd11731c8c9e403cfe6e",
+                "member_since": "2021-02-02",
+                "name": "Level Up! Stake Pool"
+            },
+            "11": {
+                "pool_id": "f66a36de855d53b9d5110bd46640f48dbab1c848c9e2f5c36d8c12dc",
+                "member_since": "2021-02-02",
+                "name": "GAIA Stake Pool"
+            },
+            "12": {
+                "pool_id": "c2b8bff5160dd75149f2cae0955698550e8cf0d390025b26a9508a3e",
+                "member_since": "2021-02-02",
+                "name": "Cardano Québec Stake Pool"
+            },
+            "13": {
+                "pool_id": "ce9f192835046ba71ed302d5d3e0ba99d65fd3950346cadad4781814",
+                "member_since": "2021-02-02",
+                "name": "HOLA Stake Pool"
+            }
+        }
+    }
+}
