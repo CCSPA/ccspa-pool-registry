@@ -92,6 +92,11 @@
                 "pool_id": "ce9f192835046ba71ed302d5d3e0ba99d65fd3950346cadad4781814",
                 "member_since": "2021-02-02",
                 "name": "HOLA Stake Pool"
+            },
+            "14": {
+                "pool_id": "566ebd3406088123f8dcc99630f122520db5d479e661c72b43571627",
+                "member_since": "2021-03-27",
+                "name": "Canada Stakes"
             }
         }
     }
