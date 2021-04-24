@@ -97,6 +97,11 @@
                 "pool_id": "566ebd3406088123f8dcc99630f122520db5d479e661c72b43571627",
                 "member_since": "2021-03-27",
                 "name": "Canada Stakes"
+            },
+            "15": {
+                "pool_id": "a50d1fd3cda9b9452cb149474a601d24332a870a6fe32b60add3a98b",
+                "member_since": "2021-03-24",
+                "name": "Sprout Pool"
             }
         }
     }
