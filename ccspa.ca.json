@@ -102,6 +102,11 @@
                 "pool_id": "a50d1fd3cda9b9452cb149474a601d24332a870a6fe32b60add3a98b",
                 "member_since": "2021-03-24",
                 "name": "Sprout Pool"
+            },
+            "16": {
+                "pool_id": "f2fa0dfea7f4caba8cbdd042c4940c783ee57f9516062725b04e19a3",
+                "member_since": "2021-04-10",
+                "name": "PSILOBYTE"
             }
         }
     }
