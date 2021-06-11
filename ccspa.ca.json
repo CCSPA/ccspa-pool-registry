@@ -112,6 +112,11 @@
                 "pool_id": "782310d6e6ab81cde977da3eef0a9f533bd255dadd30d01d33e0dde6",
                 "member_since": "2021-04-06",
                 "name": "Sparkle"
+            },
+            "18": {
+                "pool_id": "159bd971439653da2b97d12facae06ff5e6d7410d074edaab425202b",
+                "member_since": "2021-06-05",
+                "name": "A3C Cardano Pool"
             }
         }
     }
