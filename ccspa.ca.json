@@ -122,6 +122,11 @@
                 "pool_id": "6333007fadda8a9e086c2c426a02197f02e3abb4f17e22bf51341231",
                 "member_since": "2021-03-27",
                 "name": "8SQRD Cardano Stake Pool"
+            },
+            "20": {
+                "pool_id": "3805681d8d4bc9c7f298c24fdeca3406849e2db84a0708718d96d0b2",
+                "member_since": "2021-11-16",
+                "name": "EnigmA Stake Pool"
             }
         }
     }
